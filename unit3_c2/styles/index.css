@@ -1,0 +1,18 @@
+#form_div {
+    height: 330px;
+    width: 280px;
+    margin: auto;
+    border: 1px solid;
+}
+
+#form_div input {
+    padding: 7px 38px 7px 10px;
+    font-size: 15px;
+    margin: 15px;
+}
+
+#form_div #submit {
+    margin-left: 100px;
+    text-align: center;
+    padding: 5px 10px;
+}

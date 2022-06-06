@@ -1,0 +1,45 @@
+#nabvar {
+    line-height: 45px;
+    border: 1px solid rgb(224, 219, 219);
+}
+
+h1 {
+    display: inline;
+    margin: auto;
+}
+
+#wallet_balance {
+    /* text-align: center; */
+    margin-left: 450px;
+}
+
+#right {
+    margin-left: 480px;
+}
+
+#voucher_list {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    row-gap: 30px;
+    margin-top: 40px;
+}
+
+.voucher {
+    height: 375px;
+    width: 300px;
+    border: 1px solid;
+}
+
+.voucher img {
+    height: 250px;
+    width: 100%;
+}
+
+.voucher p {
+    text-align: center;
+    font-size: 17px;
+}
+
+.voucher button {
+    margin-left: 130px;
+}
